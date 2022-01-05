@@ -9,7 +9,7 @@
 ### Contributing
     Pull requests are welcome. For major changes or concerns,
     please open and issue and consult fairfieldprogramming@gmail.com
-###Personal Use
+### Personal Use
     Wish to use Terry for your own server? No problem! Please contact fairfieldprogramming@gmail.com or join the FPA discord
     server (https://discord.gg/r2JnDXvrWt) for more information on how to use Terry for your own servers.
 
