@@ -1,5 +1,8 @@
 # ![Terry](https://github.com/fairfield-programming/terry/blob/main/.github/logo.png?raw=true)
 
+![Version](https://img.shields.io/badge/version-1.0.0-green)
+![GitHub top language](https://img.shields.io/github/languages/top/fairfield-programming/terry)
+
 Terry is the Fairfield Programming Association's very own Discord moderation bot.
 
 ## Authors
