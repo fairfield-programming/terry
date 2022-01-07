@@ -1,8 +1,8 @@
 # ![Terry](https://github.com/fairfield-programming/terry/blob/main/.github/logo.png?raw=true)
 
+![GitHub Repo stars](https://img.shields.io/github/stars/fairfield-programming/terry)
 ![Version](https://img.shields.io/badge/version-1.0.0-green)
 ![GitHub top language](https://img.shields.io/github/languages/top/fairfield-programming/terry)
-![GitHub Repo stars](https://img.shields.io/github/stars/fairfield-programming/terry)
 
 Terry is the Fairfield Programming Association's very own Discord moderation bot.
 
