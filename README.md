@@ -3,20 +3,13 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/fairfield-programming/terry)
 ![Version](https://img.shields.io/badge/version-1.0.0-green)
 ![GitHub top language](https://img.shields.io/github/languages/top/fairfield-programming/terry)
+![GitHub](https://img.shields.io/github/license/fairfield-programming/terry)
 
 Terry is the Fairfield Programming Association's very own Discord moderation bot.
 
 ## Authors
 
 Joel Strand, Green's Farms Academy
-
-## Version
-
-1.0.0
-
-## License
-
-MIT
 
 ## Contributing
 
